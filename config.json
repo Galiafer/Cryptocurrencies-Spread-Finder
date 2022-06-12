@@ -1,0 +1,8 @@
+{
+  "minTradingVolume": 50000,
+  "maxTradingVolume": 1000000,
+  "startRankPosition": 100,
+  "minSpread": 9,
+  "maxSpread": 50,
+  "allowedQuotes": ["USDT", "BUSD", "USD", "BNB", "WBNB", "USDN"]
+}

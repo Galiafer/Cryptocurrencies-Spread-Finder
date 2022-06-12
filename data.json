@@ -1,0 +1,255 @@
+{
+    "data": [
+        {
+            "name": "bezoge-earth-new",
+            "url": "https://cryptorank.io/price/bezoge-earth-new",
+            "exchanges": [
+                {
+                    "exchange_name": "MEXC Global",
+                    "volume": 200020.73831459897,
+                    "usd_last": 9.25961569017606e-10
+                },
+                {
+                    "exchange_name": "Lbank",
+                    "volume": 59325.984532026465,
+                    "usd_last": 1.026848428209384e-09
+                }
+            ],
+            "pairs": [
+                {
+                    "MEXC Global": "https://www.mexc.com/exchange/BEZOGE_USDT",
+                    "Lbank": "https://www.lbank.info/exchange.html",
+                    "scheme": "MEXC Global [BUY] -> Lbank [SELL]",
+                    "spread": 9.824902723735407
+                }
+            ]
+        },
+        {
+            "name": "kishu-inu",
+            "url": "https://cryptorank.io/price/kishu-inu",
+            "exchanges": [
+                {
+                    "exchange_name": "Gate.io",
+                    "volume": 189137.94552853474,
+                    "usd_last": 4.14560218799145e-10
+                },
+                {
+                    "exchange_name": "AEX",
+                    "volume": 182393.77101816644,
+                    "usd_last": 4.31542203665616e-10
+                },
+                {
+                    "exchange_name": "BigONE",
+                    "volume": 293754.2966718557,
+                    "usd_last": 3.90585651928833e-10
+                },
+                {
+                    "exchange_name": "MEXC Global",
+                    "volume": 56125.82348592602,
+                    "usd_last": 4.32541143951879e-10
+                },
+                {
+                    "exchange_name": "OKX",
+                    "volume": 686495.768399499,
+                    "usd_last": 4.14560218799145e-10
+                }
+            ],
+            "pairs": [
+                {
+                    "BigONE": "https://big.one/trade/KISHU-USDT",
+                    "AEX": "https://www.aex.com/",
+                    "scheme": "BigONE [BUY] -> AEX [SELL]",
+                    "spread": 9.490740740740746
+                },
+                {
+                    "BigONE": "https://big.one/trade/KISHU-USDT",
+                    "MEXC Global": "https://www.mexc.com/exchange/KISHU_USDT",
+                    "scheme": "BigONE [BUY] -> MEXC Global [SELL]",
+                    "spread": 9.699769053117786
+                }
+            ]
+        },
+        {
+            "name": "mixmarvel",
+            "url": "https://cryptorank.io/price/mixmarvel",
+            "exchanges": [
+                {
+                    "exchange_name": "AscendEX",
+                    "volume": 51118.20042209139,
+                    "usd_last": 0.0055940164265552
+                },
+                {
+                    "exchange_name": "MEXC Global",
+                    "volume": 81774.7721904832,
+                    "usd_last": 0.004396297552369542
+                }
+            ],
+            "pairs": [
+                {
+                    "MEXC Global": "https://www.mexc.com/exchange/MIX_USDT",
+                    "AscendEX": "https://ascendex.com/",
+                    "scheme": "MEXC Global [BUY] -> AscendEX [SELL]",
+                    "spread": 21.41071428571429
+                }
+            ]
+        },
+        {
+            "name": "student-coin-new",
+            "url": "https://cryptorank.io/price/student-coin-new",
+            "exchanges": [
+                {
+                    "exchange_name": "Kucoin",
+                    "volume": 112615.0852923564,
+                    "usd_last": 0.004061539056624298
+                },
+                {
+                    "exchange_name": "BitGlobal",
+                    "volume": 158822.7947662083,
+                    "usd_last": 0.00415543592610848
+                },
+                {
+                    "exchange_name": "CoinTiger",
+                    "volume": 65844.0997199942,
+                    "usd_last": 0.003714919761826307
+                }
+            ],
+            "pairs": [
+                {
+                    "CoinTiger": "https://www.cointiger.com/exchange/trade_center.html?exchangeName=USDT&&symbol=STCUSDT",
+                    "BitGlobal": "https://www.bitglobal.com/en-us/spot/trade?q=STC_USDT",
+                    "scheme": "CoinTiger [BUY] -> BitGlobal [SELL]",
+                    "spread": 10.600961538461531
+                }
+            ]
+        },
+        {
+            "name": "sifchain",
+            "url": "https://cryptorank.io/price/sifchain",
+            "exchanges": [
+                {
+                    "exchange_name": "AscendEX",
+                    "volume": 59950.095085336594,
+                    "usd_last": 0.008590910871603
+                },
+                {
+                    "exchange_name": "AEX",
+                    "volume": 63482.121198386885,
+                    "usd_last": 0.01009931498975655
+                }
+            ],
+            "pairs": [
+                {
+                    "AscendEX": "https://ascendex.com/",
+                    "AEX": "https://www.aex.com/",
+                    "scheme": "AscendEX [BUY] -> AEX [SELL]",
+                    "spread": 14.935707220573681
+                }
+            ]
+        },
+        {
+            "name": "hshare",
+            "url": "https://cryptorank.io/price/hshare",
+            "exchanges": [
+                {
+                    "exchange_name": "EXX",
+                    "volume": 4408674.154883715,
+                    "usd_last": 0.15063703228579198
+                },
+                {
+                    "exchange_name": "MEXC Global",
+                    "volume": 152706.24794153756,
+                    "usd_last": 0.12676286072325602
+                },
+                {
+                    "exchange_name": "ZB.COM",
+                    "volume": 56529.139947358715,
+                    "usd_last": 0.120569560987368
+                }
+            ],
+            "pairs": [
+                {
+                    "MEXC Global": "https://www.mexc.com/exchange/HC_USDT",
+                    "EXX": "https://www.exx365.com/tradeCoding/hc_usdt",
+                    "scheme": "MEXC Global [BUY] -> EXX [SELL]",
+                    "spread": 15.848806366047722
+                },
+                {
+                    "ZB.COM": "https://trans.zb.com/hcusdt",
+                    "EXX": "https://www.exx365.com/tradeCoding/hc_usdt",
+                    "scheme": "ZB.COM [BUY] -> EXX [SELL]",
+                    "spread": 19.960212201591503
+                }
+            ]
+        },
+        {
+            "name": "hubble-protocol",
+            "url": "https://cryptorank.io/price/hubble-protocol",
+            "exchanges": [
+                {
+                    "exchange_name": "Huobi Global",
+                    "volume": 127208.71186268714,
+                    "usd_last": 0.7093339659193598
+                },
+                {
+                    "exchange_name": "Kucoin",
+                    "volume": 346984.4599718925,
+                    "usd_last": 0.42813763947759137
+                }
+            ],
+            "pairs": [
+                {
+                    "Kucoin": "https://www.kucoin.com/trade/HBB-USDT?r=E5riPm",
+                    "Huobi Global": "https://www.huobi.com/en-us/exchange/hbb_usdt?invite_code=bsvx3223",
+                    "scheme": "Kucoin [BUY] -> Huobi Global [SELL]",
+                    "spread": 39.642303900859034
+                }
+            ]
+        },
+        {
+            "name": "throne",
+            "url": "https://cryptorank.io/price/throne",
+            "exchanges": [
+                {
+                    "exchange_name": "Gate.io",
+                    "volume": 187541.80115550567,
+                    "usd_last": 0.014373752838788157
+                },
+                {
+                    "exchange_name": "Lbank",
+                    "volume": 123216.71199428607,
+                    "usd_last": 0.0168820920825297
+                },
+                {
+                    "exchange_name": "Bybit Spot",
+                    "volume": 68316.9638127694,
+                    "usd_last": 0.014508609787376413
+                },
+                {
+                    "exchange_name": "MEXC Global",
+                    "volume": 248692.5684863379,
+                    "usd_last": 0.01437475177914807
+                }
+            ],
+            "pairs": [
+                {
+                    "Gate.io": "https://gate.io/trade/THN_USDT",
+                    "Lbank": "https://www.lbank.info/exchange.html",
+                    "scheme": "Gate.io [BUY] -> Lbank [SELL]",
+                    "spread": 14.85798816568047
+                },
+                {
+                    "Bybit Spot": "https://www.bybit.com/en-US/trade/spot/THN/USDT",
+                    "Lbank": "https://www.lbank.info/exchange.html",
+                    "scheme": "Bybit Spot [BUY] -> Lbank [SELL]",
+                    "spread": 14.05917159763313
+                },
+                {
+                    "MEXC Global": "https://www.mexc.com/exchange/THN_USDT",
+                    "Lbank": "https://www.lbank.info/exchange.html",
+                    "scheme": "MEXC Global [BUY] -> Lbank [SELL]",
+                    "spread": 14.852071005917153
+                }
+            ]
+        }
+    ]
+}
