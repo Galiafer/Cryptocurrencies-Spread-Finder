@@ -1,13 +1,7 @@
-# Magic Eden bot for mint
+# Cryptocurrencies Spread Finder
+
 ###### Created by Galiaf
 
-------------
-- **[EN](https://github.com/Galiafer/MagicEden-Autobuyer#en)**
-- **[RU](https://github.com/Galiafer/MagicEden-Autobuyer#ru)**
-
-------------
-
-## EN
 > A simple bot to check different **cryptocurrency spreads** using **cryptorank.io**, **requests** and **selenium**.
 
 This bot will help you quickly find spreads on different exchanges.
